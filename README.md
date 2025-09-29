@@ -71,5 +71,5 @@ Kết quả: { "message": "Not authenticated" }
 ![](public/3.png)  
 ![](public/4.png)  
 ![](public/5.png)  
-![](public/6.png)  
+![](public/6.1.png)  
 # local_passport_auth_service
